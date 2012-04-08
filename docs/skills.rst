@@ -135,3 +135,18 @@ In addition to designing, implementing, and maintaining complex telephony
 systems for various companies, I've also made several performance patches, bug
 fixes, and built helper libraries to make interacting with Asterisk easier for
 developers.
+
+######
+Heroku
+######
+
+If I'm not currently held captive by terrorists who insist I deploy code to
+their own servers, then I'll unquestionably be using `Heroku
+<http://www.heroku.com/>`_ to host my web projets.
+
+To date, I've migrated multiple large sites from other cloud providers (like
+Rackspace) to Heroku, for the betterment of all society.
+
+In all seriousness though: I love Heroku, and I'm an expert at running sites on
+it. I'm familiar with their deployment model, best practices, and most of their
+addons.
